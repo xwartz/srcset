@@ -16,4 +16,7 @@ http://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcs
 
 
 ### Usage
+```html
 <img src="" srcset="/static/promotion/samsung/imgs/4-480.png 480w, /static/promotion/samsung/imgs/4-720.png 720w, /static/promotion/samsung/imgs/4-1080.png 1080w">
+
+```
